@@ -10,7 +10,7 @@ I have vast proffesional experience with the [pytest](https://docs.pytest.org/en
 
 For my proffesional history, please visit my [linkedin](https://www.linkedin.com/in/orcarmi/) profile.
 
-You can follow me on [twitter](https://twitter.com/liiight)/ 
+You can follow me on [twitter](https://twitter.com/liiight) 
 
 
 
